@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Afhsan Gul 👋
 
-<!--
-**afshangul2512/afshangul2512** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+I am an aspiring Data Analyst passionate about data cleaning, exploratory data analysis, and machine learning.
 
-Here are some ideas to get you started:
+## Skills
+- Python
+- Pandas
+- Matplotlib
+- Seaborn
+- Data Cleaning
+- Exploratory Data Analysis
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+- Retail Sales Data Analysis
+- Student Performance Analysis
+
+## Currently Learning
+- Advanced Data Analysis
+- Machine Learning 
+- SQL
+
+## Connect With Me
+LinkedIn:https://www.linkedin.com/in/afshan-gul-3b586a199/
